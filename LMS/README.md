@@ -1,5 +1,5 @@
-# DDNlibrary
-**DDN library project that is a university project on library management system using asp.net c# and sql server in visual studio 2019**
+# Library Management System
+**Library Management project that is a university project on library management system using asp.net c# and sql server in visual studio 2019**
 
 *WHAT ALL FEATURES ARE INCLUDED IN THIS PROJECT*
 1) 2 Users(Admin,librarian)
